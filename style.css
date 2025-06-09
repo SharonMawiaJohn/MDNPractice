@@ -1,0 +1,12 @@
+.navbar{
+    background-color: #020730;
+    overflow: hidden;
+    flex: auto;
+}
+.footer{
+    background-color:white;
+    color: black;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+}
